@@ -1,8 +1,7 @@
 # accountDatabase
 GUI display - user register information, and account type
 
-main() located in show.java
+1)source files: (show.java, FirstPage.java, FileFunc.java)
 
-
-jar file: RegAcct.jar!
+2)jar file: RegAcct.jar
 
